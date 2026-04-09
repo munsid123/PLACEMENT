@@ -1,0 +1,5 @@
+com\placement\management\entity\Certificate.class
+com\placement\management\entity\Placement.class
+com\placement\management\PlacementManagementApplication.class
+com\placement\management\entity\Admin.class
+com\placement\management\entity\User.class
